@@ -29,7 +29,7 @@ PP (File Processor) — это веб-приложение для загрузк
    ``` bash
    http://localhost:5000
 
-### ![unit tests](https://img.shields.io/badge/tests-passing-brightgreen) UNIT-TESTS
+### ![unit tests](https://img.shields.io/badge/tests-passing-brightgreen) 
 
 ```bash
 python -m unittest test_app.py
