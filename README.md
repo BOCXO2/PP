@@ -1,21 +1,3 @@
-PP/
-├── app/
-│   ├── templates/
-│   │   └── index.html      # HTML-шаблон для интерфейса
-│   ├── __init__.py         # Инициализация Flask-приложения
-│   ├── routes.py           # Маршруты приложения
-│   └── utils.py            # Вспомогательные функции обработки файлов
-├── files/                  # Папка для загрузки и хранения файлов
-├── tests/                  # Unit-тесты
-│   ├── __init__.py
-│   └── test_routes.py
-├── .gitignore              # Исключения для Git
-├── README.md               # Документация проекта
-├── requirements.txt        # Список зависимостей Python
-└── run.py                  # Точка входа приложения
-
-# README.md
-
 # Flask File Processor
 
 ### Описание
